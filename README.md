@@ -153,15 +153,8 @@ Error: Invalid API key
 
 ---
 
-## 🔜 What's Next?
-
-**Day 3:** Building on this foundation by adding:
-- Prompt templates
-- Chain of thought reasoning
-- Memory and conversation history
-- Tool integration
-
-Stay tuned: [Day 3 Repository](https://github.com/yourusername/agentic-ai-day3) *(Coming Soon)*
+##  Next 
+🔜 githublinkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 ---
 
